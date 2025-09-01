@@ -1,0 +1,50 @@
+
+html{
+    background-color: rgb(51, 5, 5) ;
+    padding: 20px;
+    border : 20px;
+    margin : 20px 20px 20px 20px ;
+
+}
+
+h1{
+    color: aqua;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    border: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+h2{
+    color:rebeccapurple;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border:20px;
+    border-radius: 20px;
+    background-color:rgb(229, 142, 66);
+    padding: 20px;
+    margin: 20px;
+}
+
+p{
+    color: rgb(0, 1, 50);
+    background-color:cadetblue;
+    font-weight: bolder;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.back{
+    color: azure;
+    border: 20px 40px 20px 40px;
+    background-color: burlywood;
+    padding: 10px 20px 10px 20px; 
+    margin-right: 1355px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
